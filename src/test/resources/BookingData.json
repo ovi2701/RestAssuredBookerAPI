@@ -1,0 +1,9 @@
+{
+  "firstname" : "Andrei",
+  "lastname" : "Neghina",
+  "totalprice": 1700,
+  "depositpaid" : true,
+  "additionalneeds" : "Breakfast",
+  "checkin" : "2022-07-19",
+  "checkout" : "2022-08-01"
+}
